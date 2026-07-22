@@ -6,7 +6,7 @@
       "name": "Minecraft",
       "bundleID": "com.minecraft.kotakbassrepo",
       "developerName": "ivansuper1230",
-      "downloadURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/minecraft%200.1.2.ipa",
+      "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
       "version": "0.1.2"
     },
     {
@@ -15,6 +15,13 @@
       "developerName": "PojavLauncherTeam",
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
       "version": "2.2"
+    },
+    {
+      "name": "Dopamine",
+      "bundleID": "com.opa334.dopamine",
+      "developerName": "opa334",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
+      "version": "2.4.9"
     }
   ]
 }
