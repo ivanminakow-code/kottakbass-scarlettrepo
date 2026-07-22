@@ -44,6 +44,13 @@
       "downloadURL": "https://file.deltaexecutorsios.com/Delta-2.729.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Delta Executor для iOS"
+    },
+    {
+      "name": "TikTokMOD",
+      "developerName": "ivansuper1230",
+      "downloadURL": "https://github.com/ivanminakow-code/kottakbass-scarlettrepo/releases/download/tiktok/TikTok.v41.4.0.BHTikTok++.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
+      "localizedDescription": "TikTok с модами"
     }
   ]
 }
