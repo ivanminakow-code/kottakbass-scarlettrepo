@@ -1,34 +1,12 @@
 {
   "name": "KOTAKBASS-REPO",
-  "identifier": "com.kotakbass.repo",
-  "icon": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
   "apps": [
     {
       "name": "Minecraft",
       "bundleIdentifier": "com.minecraft.kotakbassrepo",
       "developerName": "ivansuper1230",
-      "version": "0.1.2",
-      "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
-      "localizedDescription": "Minecraft для iOS",
-      "size": 0
-    },
-    {
-      "name": "Pojav Launcher",
-      "bundleIdentifier": "net.kdt.pojavlauncher",
-      "developerName": "PojavLauncherTeam",
-      "version": "2.2",
-      "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-      "localizedDescription": "Запускай Minecraft Java на iOS",
-      "size": 0
-    },
-    {
-      "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.dopamine",
-      "developerName": "opa334",
-      "version": "2.4.9",
-      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
-      "localizedDescription": "Джейлбрейк для iOS 15.0-16.6.1",
-      "size": 0
+      "version": "1.0",
+      "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa"
     }
   ]
 }
