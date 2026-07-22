@@ -38,6 +38,15 @@
       "downloadURL": "https://dnull.xyz/latest_bs_i",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Brawl Stars с модами"
+    },
+    {
+      "name": "BetterTG",
+      "bundleIdentifier": "com.bettertg.kotakbass",
+      "developerName": "ivansuper1230",
+      "version": "3.0",
+      "downloadURL": "https://github.com/levochkaa/BetterTG/releases/download/v3/BetterTGv3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
+      "localizedDescription": "BetterTG для iOS"
     }
   ]
 }
