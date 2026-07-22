@@ -37,6 +37,13 @@
       "downloadURL": "https://github.com/levochkaa/BetterTG/releases/download/v3/BetterTGv3.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "BetterTG для iOS"
+    },
+    {
+      "name": "Delta Executor",
+      "developerName": "IVANSUPER1230",
+      "downloadURL": "https://file.deltaexecutorsios.com/Delta-2.729.ipa",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
+      "localizedDescription": "Delta Executor для iOS"
     }
   ]
 }
