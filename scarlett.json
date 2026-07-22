@@ -1,27 +1,51 @@
 {
   "name": "KOTAKBASS-REPO",
   "identifier": "com.kotakbass.repo",
+  "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
+  "categories": [
+    {
+      "name": "Игры",
+      "identifier": "games",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/games_icon.png"
+    },
+    {
+      "name": "Инструменты",
+      "identifier": "tools",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/tools_icon.png"
+    },
+    {
+      "name": "Джейлбрейк",
+      "identifier": "jailbreak",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/jailbreak_icon.png"
+    }
+  ],
   "apps": [
     {
       "name": "Minecraft",
       "bundleID": "com.minecraft.kotakbassrepo",
       "developerName": "ivansuper1230",
       "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
-      "version": "0.1.2"
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/minecraft_icon.png",
+      "version": "1.0",
+      "category": "games"
     },
     {
       "name": "Pojav Launcher",
       "bundleID": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam",
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-      "version": "2.2"
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/pojav_icon.png",
+      "version": "2.2",
+      "category": "games"
     },
     {
       "name": "Dopamine",
       "bundleID": "com.opa334.dopamine",
       "developerName": "opa334",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
-      "version": "2.4.9"
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/dopamine_icon.png",
+      "version": "2.4.9",
+      "category": "jailbreak"
     }
   ]
 }
