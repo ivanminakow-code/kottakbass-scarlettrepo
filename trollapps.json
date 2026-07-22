@@ -10,8 +10,16 @@
       "version": "0.1.2",
       "downloadURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/minecraft%200.1.2.ipa",
       "localizedDescription": "Minecraft для iOS",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "size": 2579497
+    },
+    {
+      "name": "Pojav Launcher",
+      "bundleIdentifier": "net.kdt.pojavlauncher",
+      "developerName": "PojavLauncherTeam",
+      "version": "2.2",
+      "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
+      "localizedDescription": "Запускай Minecraft Java на iOS",
+      "size": 0
     }
   ]
 }
