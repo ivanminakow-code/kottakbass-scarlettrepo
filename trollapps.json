@@ -5,45 +5,35 @@
   "apps": [
     {
       "name": "Minecraft",
-      "bundleIdentifier": "com.minecraft.kotakbassrepo",
       "developerName": "ivansuper1230",
-      "version": "1.0",
       "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Minecraft для iOS"
     },
     {
       "name": "Pojav Launcher",
-      "bundleIdentifier": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam",
-      "version": "2.2",
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Запускай Minecraft Java на iOS"
     },
     {
       "name": "Dopamine",
-      "bundleIdentifier": "com.opa334.dopamine",
       "developerName": "opa334",
-      "version": "2.4.9",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Джейлбрейк для iOS 15.0-16.6.1"
     },
     {
       "name": "Nullsbrawl",
-      "bundleIdentifier": "com.nullsbrawl.ios",
       "developerName": "Nullsteam IVANSUPER1230",
-      "version": "1.0",
       "downloadURL": "https://dnull.xyz/latest_bs_i",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Brawl Stars с модами"
     },
     {
       "name": "BetterTG",
-      "bundleIdentifier": "com.bettertg.kotakbass",
       "developerName": "ivansuper1230",
-      "version": "3.0",
       "downloadURL": "https://github.com/levochkaa/BetterTG/releases/download/v3/BetterTGv3.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "BetterTG для iOS"
