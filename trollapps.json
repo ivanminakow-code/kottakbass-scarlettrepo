@@ -29,6 +29,15 @@
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
       "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "localizedDescription": "Джейлбрейк для iOS 15.0-16.6.1"
+    },
+    {
+      "name": "Nullsbrawl",
+      "bundleIdentifier": "com.nullsbrawl.ios",
+      "developerName": "Nullsteam IVANSUPER1230",
+      "version": "1.0",
+      "downloadURL": "https://dnull.xyz/latest_bs_i",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
+      "localizedDescription": "Brawl Stars с модами"
     }
   ]
 }
