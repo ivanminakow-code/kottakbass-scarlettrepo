@@ -5,18 +5,15 @@
   "categories": [
     {
       "name": "Игры",
-      "identifier": "games",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/games_icon.png"
+      "identifier": "games"
     },
     {
       "name": "Инструменты",
-      "identifier": "tools",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/tools_icon.png"
+      "identifier": "tools"
     },
     {
       "name": "Джейлбрейк",
-      "identifier": "jailbreak",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/jailbreak_icon.png"
+      "identifier": "jailbreak"
     }
   ],
   "apps": [
@@ -25,7 +22,7 @@
       "bundleID": "com.minecraft.kotakbassrepo",
       "developerName": "ivansuper1230",
       "downloadURL": "https://github.com/YoVariable/minecraft_ios/releases/download/v1.21.22/Minecraft.1.21.22.ipa",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/minecraft_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "version": "1.0",
       "category": "games"
     },
@@ -34,7 +31,7 @@
       "bundleID": "net.kdt.pojavlauncher",
       "developerName": "PojavLauncherTeam",
       "downloadURL": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS/releases/download/v2.2/net.kdt.pojavlauncher-2.2-ios.ipa",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/pojav_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "version": "2.2",
       "category": "games"
     },
@@ -43,7 +40,7 @@
       "bundleID": "com.opa334.dopamine",
       "developerName": "opa334",
       "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.9/Dopamine.ipa",
-      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/dopamine_icon.png",
+      "iconURL": "https://raw.githubusercontent.com/ivanminakow-code/kottakbass-scarlettrepo/main/scoobert-mad-cat.png",
       "version": "2.4.9",
       "category": "jailbreak"
     }
